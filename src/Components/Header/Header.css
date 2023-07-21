@@ -1,0 +1,9 @@
+header {
+    background-color: rgb(34, 174, 95);
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    padding: 1em;
+}

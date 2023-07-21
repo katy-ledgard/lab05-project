@@ -1,48 +1,48 @@
 [
     {
           "_id": 1,
-          "image_url": "http://3.bp.blogspot.com/_DBYF1AdFaHw/TE-f0cDQ24I/AAAAAAAACZg/l-FdTZ6M7z8/s1600/Unicorn_and_Narwhal_by_dinglehopper.jpg",
+          "image_url": "https://cdn.pixabay.com/photo/2021/01/05/15/48/marsh-harrier-5891589_1280.jpg",
           "name": "Marsh Harrier",
           "description": "A bird of prey that has a long tail and broad wings.",
-          "habitat": "marshland",
-          "species": "bird"
+          "habitat": "Marshland",
+          "species": "Bird"
     },
     
     {
           "_id": 2,
-          "image_url": "http://3.bp.blogspot.com/_DBYF1AdFaHw/TE-f0cDQ24I/AAAAAAAACZg/l-FdTZ6M7z8/s1600/Unicorn_and_Narwhal_by_dinglehopper.jpg",
+          "image_url": "https://images.pexels.com/photos/53510/head-details-otter-close-up-53510.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "name": "European Otter",
           "description": "A small mammal with a long slim body and webbed feet.",
-          "habitat": "river",
-          "species": "otter"
+          "habitat": "River",
+          "species": "Otter"
     },
     
     {
           "_id": 3,
-          "image_url": "http://3.bp.blogspot.com/_DBYF1AdFaHw/TE-f0cDQ24I/AAAAAAAACZg/l-FdTZ6M7z8/s1600/Unicorn_and_Narwhal_by_dinglehopper.jpg",
+          "image_url": "https://images.pexels.com/photos/7710414/pexels-photo-7710414.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "name": "Muntjac",
           "description": "A small deer that has short, unbranched antlers.",
-          "habitat": "woodland",
-          "species": "deer"
+          "habitat": "Woodland",
+          "species": "Deer"
     },
     
     
     {
           "_id": 4,
-          "image_url": "http://3.bp.blogspot.com/_DBYF1AdFaHw/TE-f0cDQ24I/AAAAAAAACZg/l-FdTZ6M7z8/s1600/Unicorn_and_Narwhal_by_dinglehopper.jpg",
+          "image_url": "https://images.pexels.com/photos/326900/pexels-photo-326900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "name": "Kingfisher",
           "description": "A small bird with bright blue and orange feathers.",
-          "habitat": "river",
-          "species": "bird"
+          "habitat": "River",
+          "species": "Bird"
     },
     
     {
           "_id": 5,
-          "image_url": "http://3.bp.blogspot.com/_DBYF1AdFaHw/TE-f0cDQ24I/AAAAAAAACZg/l-FdTZ6M7z8/s1600/Unicorn_and_Narwhal_by_dinglehopper.jpg",
+          "image_url": "https://images.pexels.com/photos/15913113/pexels-photo-15913113/free-photo-of-a-badger-in-a-zoo.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "name": "European Badger",
-          "description": "A small black and white strioed mammal.",
-          "habitat": "woodland",
-          "species": "badger"
+          "description": "A small black and white striped mammal.",
+          "habitat": "Woodland",
+          "species": "Badger"
     }
     
     ]
