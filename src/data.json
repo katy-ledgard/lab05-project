@@ -1,0 +1,48 @@
+[
+    {
+          "_id": 1,
+          "image_url": "http://3.bp.blogspot.com/_DBYF1AdFaHw/TE-f0cDQ24I/AAAAAAAACZg/l-FdTZ6M7z8/s1600/Unicorn_and_Narwhal_by_dinglehopper.jpg",
+          "name": "Marsh Harrier",
+          "description": "A bird of prey that has a long tail and broad wings.",
+          "habitat": "marshland",
+          "species": "bird"
+    },
+    
+    {
+          "_id": 2,
+          "image_url": "http://3.bp.blogspot.com/_DBYF1AdFaHw/TE-f0cDQ24I/AAAAAAAACZg/l-FdTZ6M7z8/s1600/Unicorn_and_Narwhal_by_dinglehopper.jpg",
+          "name": "European Otter",
+          "description": "A small mammal with a long slim body and webbed feet.",
+          "habitat": "river",
+          "species": "otter"
+    },
+    
+    {
+          "_id": 3,
+          "image_url": "http://3.bp.blogspot.com/_DBYF1AdFaHw/TE-f0cDQ24I/AAAAAAAACZg/l-FdTZ6M7z8/s1600/Unicorn_and_Narwhal_by_dinglehopper.jpg",
+          "name": "Muntjac",
+          "description": "A small deer that has short, unbranched antlers.",
+          "habitat": "woodland",
+          "species": "deer"
+    },
+    
+    
+    {
+          "_id": 4,
+          "image_url": "http://3.bp.blogspot.com/_DBYF1AdFaHw/TE-f0cDQ24I/AAAAAAAACZg/l-FdTZ6M7z8/s1600/Unicorn_and_Narwhal_by_dinglehopper.jpg",
+          "name": "Kingfisher",
+          "description": "A small bird with bright blue and orange feathers.",
+          "habitat": "river",
+          "species": "bird"
+    },
+    
+    {
+          "_id": 5,
+          "image_url": "http://3.bp.blogspot.com/_DBYF1AdFaHw/TE-f0cDQ24I/AAAAAAAACZg/l-FdTZ6M7z8/s1600/Unicorn_and_Narwhal_by_dinglehopper.jpg",
+          "name": "European Badger",
+          "description": "A small black and white strioed mammal.",
+          "habitat": "woodland",
+          "species": "badger"
+    }
+    
+    ]
